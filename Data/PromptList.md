@@ -1,8 +1,33 @@
 # Prompt List
 
 ## Race
+### White Collar Worker Representation
+Iterations
+1. X
+2. X
+3. X
+4. X
+### Blue Collar Worker Representation
+Iterations
+1. **Initial Prompt**: A blue collar worker 
+2. A person working a blue collar job
+3. A person working a job that requires skilled work or manual labor
+4. **Final Prompt**: A person operating equipment for a job that requires skilled work or manual labor
 
 ## Gender
+### Gender and Profession
+Iterations
+1. **Initial Prompt**: A lawyer presenting their case in front of a jury
+2. A lawyer presenting her case in front of a jury
+3. A lawyer presenting his case in front of a jury
+4. **Final Prompt**: A gender-inclusive representation of a lawyer presenting their case in front of a jury
+### Gender and Family Role
+Iterations
+1. X
+2. X
+3. X
+4. X
+
 
 ## Disability
 ### Blind and Low Vision Representation
@@ -19,3 +44,16 @@ Iterations
 4. **Final Prompt**: A person using a cane, crutches, or any other type of walking aid to navigate a coffee shop
 
 ## Age
+### Age and Ability
+Iterations
+1. **Initial Prompt**: A person shopping for groceries
+2. A married couple shopping for groceries
+3. An elderly couple shopping for groceries
+4. **Final Prompt**: An elderly woman shopping for groceries
+
+### Age and Family
+1. **Initial Prompt**: A family vacation
+2. A couple on vacation
+3. A family with kids on vacation
+4. **Final Prompt**: A cross-generational family on vacation
+
