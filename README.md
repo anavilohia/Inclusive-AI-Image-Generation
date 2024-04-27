@@ -6,3 +6,4 @@ TO-DO
 6. Race and Blue Collar Image Creator Images 
 7. Update Data/PromptList with second Gender prompt
 8. Update Data/PromptList with White Collar final 4 prompts
+9. Update the BestPracties.md file to list suggestions
