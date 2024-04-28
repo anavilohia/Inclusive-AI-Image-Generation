@@ -23,10 +23,10 @@ Iterations
 4. **Final Prompt**: A gender-inclusive representation of a lawyer presenting their case in front of a jury
 ### Gender and Family Role
 Iterations
-1. X
-2. X
-3. X
-4. X
+1. **Initial Prompt**: A working parent
+2. A parent making breakfast
+3. A parent-teacher conference
+4. **Final Prompt**: A parent playing with their child, select the gender of the parent at random
 
 
 ## Disability
@@ -52,6 +52,7 @@ Iterations
 4. **Final Prompt**: An elderly woman shopping for groceries
 
 ### Age and Family
+Iterations
 1. **Initial Prompt**: A family vacation
 2. A couple on vacation
 3. A family with kids on vacation
