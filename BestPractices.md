@@ -11,4 +11,4 @@
 - Prioritize intersectionality in training: Ensure training data represents a variety of identities within a category. For instance, when generating images of Blind and Low Vision users, include diverse representations of age, gender, and race, in addition to variations in vision disabilities.
 - Test responsiveness to prompt requirements: Assess how well models respond to prompts requesting equal probabilities of gender representation, for example.
 - Diversify training data: Expand datasets to include diverse identities beyond conventional definitions. For example, including gender non-conforming individuals.
-- Implement feedback loops: If initial outputs do not meet user expectations, incorporate feedback mechanisms based on user responses or modified prompts.
+- Implement feedback loops: If initial outputs do not meet user expectations, incorporate feedback mechanisms to the model based on user responses or modified prompts.
