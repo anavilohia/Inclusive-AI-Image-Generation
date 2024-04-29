@@ -1,20 +1,5 @@
 # Prompt List
 
-## Race
-### White Collar Worker Representation
-Iterations
-1. **Initial Prompt**: A white collar worker
-2. A person working a white collar job
-3. A person working a job that requires office work
-4. **Final**:  A person writing important documents for a job that requires office work
-
-### Blue Collar Worker Representation
-Iterations
-1. **Initial Prompt**: A blue collar worker 
-2. A person working a blue collar job
-3. A person working a job that requires skilled work or manual labor
-4. **Final Prompt**: A person operating equipment for a job that requires skilled work or manual labor
-
 ## Gender
 ### Gender and Profession
 Iterations
@@ -30,6 +15,20 @@ Iterations
 3. A parent-teacher conference
 4. **Final Prompt**: A parent playing with their child, select the gender of the parent at random
 
+## Race
+### White Collar Worker Representation
+Iterations
+1. **Initial Prompt**: A white collar worker
+2. A person working a white collar job
+3. A person working a job that requires office work
+4. **Final**:  A person writing important documents for a job that requires office work
+
+### Blue Collar Worker Representation
+Iterations
+1. **Initial Prompt**: A blue collar worker 
+2. A person working a blue collar job
+3. A person working a job that requires skilled work or manual labor
+4. **Final Prompt**: A person operating equipment for a job that requires skilled work or manual labor
 
 ## Disability
 ### Blind and Low Vision Representation
