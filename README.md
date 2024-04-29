@@ -25,7 +25,7 @@ total of 640 images.
 |── BestPractice.md
 └── README.md
 ```
-* `/Data`: Contains the generated images categorized by bias subtopics, includes age, diability, gender, and race.
+* `Data`: Contains the generated images categorized by bias subtopics, includes age, diability, gender, and race.
 * `PromptList.md`: A markdown file that lists all the prompts used throughout the study, including initial prompts and their iterative refinements.
 * `BestPractices.md`: A markdown file documenting the recommended best practices for prompt design and image generation, derived from our research findings.
 * `README.md`: Provides an overview of the project, its value, methodology, and instructions for navigating and utilizing the repository.
