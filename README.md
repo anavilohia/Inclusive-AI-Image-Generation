@@ -21,6 +21,7 @@ total of 640 images.
 | |__ Disability Representation
 | |__ Gender Representation
 | |__ Racial Representation
+|── Bias_in_AI_Image_Generation.pdf
 |── PromptList.md
 |── BestPractice.md
 └── README.md
